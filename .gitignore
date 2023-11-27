@@ -21,3 +21,4 @@ train/management/__pycache__/__init__.cpython-311.pyc
 train/management/commands/__pycache__/__init__.cpython-311.pyc
 train/management/commands/__pycache__/download_talks.cpython-311.pyc
 train/management/commands/__pycache__/merge_docs.cpython-311.pyc
+ajahngpt/.env
